@@ -1,4 +1,5 @@
-# i2b2/tranSMART release-18.1 Quick-Start ( Application Stack Only) 
+# i2b2/tranSMART release-18.1 Quick-Start 
+## Application Stack Only
 
 
 ## Docker Host Hardware Requirements
