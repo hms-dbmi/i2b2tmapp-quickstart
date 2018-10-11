@@ -26,7 +26,7 @@ HTTPS_PORT=
 ## Deploy
 
 ```
-$ docker-compose -f prod.yml down -v
+$ docker-compose up -d
 ```
 
 ## Test i2b2/tranSMART release-18.1
